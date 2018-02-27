@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_video"
+        android:icon="@drawable/rb_video"
+        android:title="本地视频" />
+    <item
+        android:id="@+id/bottom_audio"
+        android:icon="@drawable/rb_audio"
+        android:title="本地音乐" />
+    <item
+        android:id="@+id/bottom_more"
+        android:icon="@drawable/rb_more"
+        android:title="更多" />
+    <item
+        android:id="@+id/bottom_user"
+        android:icon="@drawable/rb_user"
+        android:title="我" />
+</menu>
